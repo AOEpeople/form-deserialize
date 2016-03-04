@@ -1,0 +1,19 @@
+{
+  "name": "form-deserialize",
+  "version": "0.0.1",
+  "description": "Map serialized get string to form elements on a page; depends on jQuery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AOEpeople/form-deserialize.git"
+  },
+  "author": "Marc Dix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AOEpeople/form-deserialize/issues"
+  },
+  "homepage": "https://github.com/AOEpeople/form-deserialize"
+}
